@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Task1
+</name>
+</assembly>
+<members>
+<member name="M:Task1.FibonacciSeries.FindFibonacciValue(System.String)">
+	<summary>
+ Find a number in the Fibonacci series located at a specified position
+ </summary>
+	<param name="position">Unvalidated position number in the Fibonacci series</param>
+	<returns>A number in the Fibonacci series</returns>
+	<remarks></remarks>
+</member><member name="M:Task1.FibonacciSeries.Fibonacci(System.Int32)">
+	<summary>
+ Find a number in the Fibonacci series located at a specified validated position
+ </summary>
+	<param name="number">Validated position number in the Fibonacci series</param>
+	<returns>A number in the Fibonacci series</returns>
+	<remarks></remarks>
+</member><member name="P:Task1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Task1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Task1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

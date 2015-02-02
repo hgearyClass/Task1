@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TestTask1
+</name>
+</assembly>
+<members>
+<member name="M:TestTask1.FibonacciSeriesTest.FibonacciTest">
+	<summary>
+ Test Fibonacci (validated input)
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TestTask1.FibonacciSeriesTest.FibonacciTest2">
+	<summary>
+ Test Fibonacci (input not validated)
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
